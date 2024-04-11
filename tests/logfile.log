@@ -1,0 +1,19 @@
+2024-03-27 17:44:57,382 :INFO :test_e2e :Getting all mobile options
+2024-03-27 17:44:57,712 :INFO :test_e2e :Selecting the required mobile phone
+2024-03-27 17:44:58,179 :INFO :test_e2e :entering the country by sending 'In'
+2024-03-27 17:45:03,657 :INFO :test_e2e :Placing the order
+2024-03-27 17:46:11,030 :INFO :test_e2e :Getting all mobile options
+2024-03-27 17:46:11,171 :INFO :test_e2e :[<selenium.webdriver.remote.webelement.WebElement (session="ba9ae970f96f1ebe6f4a7995d13785f0", element="f.ED994BFEF2909EEB5DEF6AC9E1C565DD.d.25021F7C0F0483A4EA3ADCA98260A6DD.e.66")>, <selenium.webdriver.remote.webelement.WebElement (session="ba9ae970f96f1ebe6f4a7995d13785f0", element="f.ED994BFEF2909EEB5DEF6AC9E1C565DD.d.25021F7C0F0483A4EA3ADCA98260A6DD.e.68")>, <selenium.webdriver.remote.webelement.WebElement (session="ba9ae970f96f1ebe6f4a7995d13785f0", element="f.ED994BFEF2909EEB5DEF6AC9E1C565DD.d.25021F7C0F0483A4EA3ADCA98260A6DD.e.70")>, <selenium.webdriver.remote.webelement.WebElement (session="ba9ae970f96f1ebe6f4a7995d13785f0", element="f.ED994BFEF2909EEB5DEF6AC9E1C565DD.d.25021F7C0F0483A4EA3ADCA98260A6DD.e.72")>]
+2024-03-27 17:46:11,172 :INFO :test_e2e :Selecting the required mobile phone
+2024-03-27 17:46:11,610 :INFO :test_e2e :entering the country by sending 'In'
+2024-03-27 17:46:16,987 :INFO :test_e2e :Placing the order
+2024-03-28 10:55:40,058 :INFO :test_e2e :Getting all mobile options
+2024-03-28 10:55:40,269 :INFO :test_e2e :[<selenium.webdriver.remote.webelement.WebElement (session="ce164d8f9b36a70eb271826854c8c0ba", element="f.9E6CF0F35C3E5C74B05491BCB3383D7A.d.E73B401B1ED7D79BC724953906C6FF32.e.65")>, <selenium.webdriver.remote.webelement.WebElement (session="ce164d8f9b36a70eb271826854c8c0ba", element="f.9E6CF0F35C3E5C74B05491BCB3383D7A.d.E73B401B1ED7D79BC724953906C6FF32.e.67")>, <selenium.webdriver.remote.webelement.WebElement (session="ce164d8f9b36a70eb271826854c8c0ba", element="f.9E6CF0F35C3E5C74B05491BCB3383D7A.d.E73B401B1ED7D79BC724953906C6FF32.e.69")>, <selenium.webdriver.remote.webelement.WebElement (session="ce164d8f9b36a70eb271826854c8c0ba", element="f.9E6CF0F35C3E5C74B05491BCB3383D7A.d.E73B401B1ED7D79BC724953906C6FF32.e.71")>]
+2024-03-28 10:55:40,269 :INFO :test_e2e :Selecting the required mobile phone
+2024-03-28 10:55:40,815 :INFO :test_e2e :entering the country by sending 'In'
+2024-03-28 10:55:46,391 :INFO :test_e2e :Placing the order
+2024-03-29 17:17:41,426 :INFO :test_e2e :Getting all mobile options
+2024-03-29 17:17:41,646 :INFO :test_e2e :[<selenium.webdriver.remote.webelement.WebElement (session="eada06cf38aae6fd07bd828331038c8e", element="f.94B3C80EE6AE7A07FC19A1A682236D09.d.E2412E20A2D50B7588D25D4F7FA37C3D.e.65")>, <selenium.webdriver.remote.webelement.WebElement (session="eada06cf38aae6fd07bd828331038c8e", element="f.94B3C80EE6AE7A07FC19A1A682236D09.d.E2412E20A2D50B7588D25D4F7FA37C3D.e.67")>, <selenium.webdriver.remote.webelement.WebElement (session="eada06cf38aae6fd07bd828331038c8e", element="f.94B3C80EE6AE7A07FC19A1A682236D09.d.E2412E20A2D50B7588D25D4F7FA37C3D.e.69")>, <selenium.webdriver.remote.webelement.WebElement (session="eada06cf38aae6fd07bd828331038c8e", element="f.94B3C80EE6AE7A07FC19A1A682236D09.d.E2412E20A2D50B7588D25D4F7FA37C3D.e.71")>]
+2024-03-29 17:17:41,647 :INFO :test_e2e :Selecting the required mobile phone
+2024-03-29 17:17:42,229 :INFO :test_e2e :entering the country by sending 'In'
+2024-03-29 17:17:47,930 :INFO :test_e2e :Placing the order
